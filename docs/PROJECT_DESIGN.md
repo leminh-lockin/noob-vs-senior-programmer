@@ -24,8 +24,6 @@ I want to build **Noob vs Senior Programmer**, a Roblox 1v1 fighting game where 
 6. Players enter a **45-second combat phase** using basic attacks and earned skills.
 7. Repeat until somebody reaches **0 HP** or **five rounds** end. If the round limit is reached, the player with higher HP wins; equal HP is a draw.
 
-These times and damage values are starting balance settings, not final promises. The quiz should never disclose its correct answer to the client before the server judges it.
-
 ## 2.2: Tech Stack
 
 - Programming Language: Luau (Roblox Lua)
