@@ -1,7 +1,6 @@
 # Noob vs Senior Programmer — Project Design Document
 
-## 1.1: The Problem (2–4 sentences)
-
+## 1.1: The Problem 
 I enjoy competitive programming and playing games with friends, but practicing algorithm problems alone can get repetitive. I sometimes lose motivation when solving problems feels more like homework than something I actually want to do. I want to make algorithm practice more entertaining by combining it with the competition and funny moments I enjoy in Roblox games.
 
 ## 1.2: My Idea (The Solution)
