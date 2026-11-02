@@ -1,0 +1,18 @@
+# Roblox Studio generated place/build files
+build.rbxl
+build.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+
+# OS and editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
+*.log
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
